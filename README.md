@@ -4,7 +4,7 @@
 <p align="center">
   •
   <a href="https://jangir10.github.io/self.nir/">Portfolio</a> •
-  <a href="https://www.instagram.com/soanpapda/">Instagram</a> •
+  <a href="https://www.instagram.com/jangir10_/">Instagram</a> •
   <a href="https://www.linkedin.com/in/niranjan-jangir-285684236//">Linkedin</a>
 </p>
 
