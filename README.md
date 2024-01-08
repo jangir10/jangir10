@@ -12,7 +12,7 @@
 - 🔭 Keenly interested in Programming, Development, Cybersecurity & Arts. 
 - 🌱 I love to write (lyrics !!!). 
 - 💬 Currently learning many things...
-- 📫 I like photography. Check me [out](https://www.instagram.com/jangir10/)
+- 📫 I like photography. Check me [out](https://www.instagram.com/jangir10_/)
 - ⚡ I make memes occasionally...
 
 -------
