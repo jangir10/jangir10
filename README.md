@@ -3,9 +3,9 @@
 <h3 align="center">Pre-final year undergrad at @IIT Jodhpur</h3>
 <p align="center">
   •
-  <a href="https://jangir10.github.io/self.nir/">Portfolio</a> •
-  <a href="https://www.instagram.com/njangir10_/">Instagram</a> •
-  <a href="https://www.linkedin.com/in/niranjan-jangir-285684236//">Linkedin</a>
+<!--   <a href="https://jangir10.github.io/self.nir/">Portfolio</a> • -->
+<!--   <a href="https://www.instagram.com/njangir10_/">Instagram</a> • -->
+<!--   <a href="https://www.linkedin.com/in/niranjan-jangir-285684236//">Linkedin</a> -->
 </p>
 
 
