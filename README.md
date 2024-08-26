@@ -18,6 +18,6 @@
 -------
 
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=jangir10" alt="LeetCode Badges"/>
+
       
 
