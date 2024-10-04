@@ -1,6 +1,6 @@
 <h2 align="center">Hello! I'm Niranjan Jangir</h2>
 <h3 align="center">A technophile under development ;)</h3>
-<h3 align="center">Pre-final year undergrad at @IIT Jodhpur</h3>
+<h3 align="center">Final year undergrad at @IIT Jodhpur</h3>
 <p align="center">
   •
 <!--   <a href="https://jangir10.github.io/self.nir/">Portfolio</a> • -->
